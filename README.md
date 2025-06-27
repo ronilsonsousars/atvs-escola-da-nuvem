@@ -4,16 +4,11 @@ Este repositório serve como uma compilação dos trabalhos práticos desenvolvi
 
 ## 📑 Sumário
 
-- [🎯 Objetivo do Curso](#-objetivo-do-curso)
 - [📚 Lista de Atividades](#-lista-de-atividades)
 - [🧰 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [🏅 Sobre o Curso](#-sobre-o-curso)
 - [📁 Estrutura do Repositório](#-estrutura-do-repositório)
 - [🙌 Agradecimentos](#-agradecimentos)
-
-## 🎯 Objetivo do Curso
-
-O objetivo principal do curso....
 
 ## 📚 Lista de Atividades
 
@@ -79,7 +74,7 @@ As atividades foram desenvolvidas utilizando a seguinte tecnologia:
 
 O curso foi estruturado com:
 
-- 📺 **Mentorias ao Vivo** 
+- 📺 **Mentorias ao Vivo**
 - 💡 **Desafios de Código** para praticar lógica e programação
 - 🛠️ **Projetos Práticos** com temas criativos
 
