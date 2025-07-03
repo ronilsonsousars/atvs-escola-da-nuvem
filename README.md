@@ -68,10 +68,10 @@ Abaixo está uma tabela que resume as atividades práticas realizadas, com uma b
       </strong>
       </td>
       <td>
-        ▪ Gerar senhas aleatória (concluído)<br>
-        ▪ Gerar perfil de usuário usando API 'Random User Generator (pedente)<br>
-        ▪ Consulta de informações de endereço a partir de um CEP usando a API ViaCEP. (pedente)<br>
-        ▪ Consulta de cotação de uma moeda estrangeira em relação a moeda brasileira (BRL) sando a API AwesomeAPI (pedente)
+        ▪ Gerar senhas aleatória<br>
+        ▪ Gerar perfil de usuário usando API 'Random User Generator<br>
+        ▪ Consulta de informações de endereço a partir de um CEP usando a API ViaCEP.<br>
+        ▪ Consulta de cotação de uma moeda estrangeira em relação a moeda brasileira (BRL) sando a API AwesomeAPI
       </td>
     </tr>
   </tbody>
