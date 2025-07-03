@@ -64,7 +64,7 @@ Abaixo está uma tabela que resume as atividades práticas realizadas, com uma b
     <tr>
       <td>
       <strong>
-        <a href="./atividades/atividades-4/">Atividade Prática 04</a>
+        <a href="./atividades/atividades-4/README.md">Atividade Prática 04</a>
       </strong>
       </td>
       <td>
@@ -72,6 +72,18 @@ Abaixo está uma tabela que resume as atividades práticas realizadas, com uma b
         ▪ Gerar perfil de usuário usando API 'Random User Generator<br>
         ▪ Consulta de informações de endereço a partir de um CEP usando a API ViaCEP.<br>
         ▪ Consulta de cotação de uma moeda estrangeira em relação a moeda brasileira (BRL) sando a API AwesomeAPI
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <strong>
+        <a href="./atividades/atividades-5/README.md">Atividade Prática 0</a>
+      </strong>
+      </td>
+      <td>
+        ▪ Calculadora de Gorjetas<br>
+        ▪ Calculadora de Idade em Dias<br>
+        ▪ Verificador de Palíndromos (pendente)<br>
       </td>
     </tr>
   </tbody>
