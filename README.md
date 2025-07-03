@@ -61,6 +61,19 @@ Abaixo está uma tabela que resume as atividades práticas realizadas, com uma b
         ▪ Verificador de Ano Bissexto
       </td>
     </tr>
+    <tr>
+      <td>
+      <strong>
+        <a href="./atividades/atividades-4/">Atividade Prática 04</a>
+      </strong>
+      </td>
+      <td>
+        ▪ Gerar senhas aleatória (concluído)<br>
+        ▪ Gerar perfil de usuário usando API 'Random User Generator (pedente)<br>
+        ▪ Consulta de informações de endereço a partir de um CEP usando a API ViaCEP. (pedente)<br>
+        ▪ Consulta de cotação de uma moeda estrangeira em relação a moeda brasileira (BRL) sando a API AwesomeAPI (pedente)
+      </td>
+    </tr>
   </tbody>
 </table>
 
