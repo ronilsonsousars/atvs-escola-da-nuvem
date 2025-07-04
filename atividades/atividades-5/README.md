@@ -10,7 +10,7 @@ Um palíndromo é uma palavra ou frase que se lê da mesma forma de trás para f
 **Como usar:**
 O script já contém exemplos de frases para verificação. Para executá-lo, basta usar o seguinte comando no seu terminal:
 
-**[💬 visualizar o código](scripts/calculate_palindrome.py)**
+**[💬 visualizar o código](scripts/palindrome.py)**
 
 ```bash
 python palindrome.py
