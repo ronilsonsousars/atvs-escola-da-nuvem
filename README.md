@@ -83,7 +83,20 @@ Abaixo está uma tabela que resume as atividades práticas realizadas, com uma b
       <td>
         ▪ Calculadora de Gorjetas<br>
         ▪ Calculadora de Idade em Dias<br>
-        ▪ Verificador de Palíndromos (pendente)<br>
+        ▪ Verificador de Palíndromos<br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <strong>
+        <a href="./atividades/atividades-6/README.md">Atividade Prática 06</a>
+      </strong>
+      </td>
+      <td>
+        ▪ Validador de Senhas<br>
+        ▪ Calculadora de Média da Turma<br>
+        ▪ Identificador de Números Pares/Ímpares<br>
+        ▪ Calculadora Básica<br>
       </td>
     </tr>
   </tbody>
