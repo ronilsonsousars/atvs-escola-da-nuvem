@@ -99,6 +99,16 @@ Abaixo está uma tabela que resume as atividades práticas realizadas, com uma b
         ▪ Calculadora Básica<br>
       </td>
     </tr>
+    <tr>
+      <td>
+      <strong>
+        <a href="./atividades/atividades-7.md">Atividade Prática 07</a>
+      </strong>
+      </td>
+      <td>
+        ▪ Lendo e escrevendo arquivos externos com Python.
+      </td>
+    </tr>
   </tbody>
 </table>
 
