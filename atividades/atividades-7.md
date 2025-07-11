@@ -5,7 +5,7 @@ Lendo e escrevendo arquivos externos com Python.
 
 ## 1. Escrevendo um arquivo CSV
 
-O script `writer_csv.py` demonstra como escrever dados em um arquivo CSV.
+O script `escrever_csv.py` demonstra como escrever dados em um arquivo CSV.
 
 ```python
 import csv
